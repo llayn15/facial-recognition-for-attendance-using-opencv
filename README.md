@@ -2,6 +2,11 @@
 
 This project is a project created to simplify the attendance process in classrooms. So the attendance process only needs to be done by pointing your face towards the camera and clicking the mouse.
 
+# Points to Note
+
+1. In the 'Attendance' folder, fill it with sample faces.
+2. Adjust the program code in the 'label_mapping' section with the faces of individuals in the 'Attendance' folder.
+
 # Installation Instructions
 
 1. Install all required dependencies (cmake, dlib, face_recognition, numpy, opencv).
